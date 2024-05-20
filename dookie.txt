@@ -1,0 +1,9 @@
+{ {
+    buffer_number = 3,
+    file_in_buffer = "term://~/.config/nvim/lua/window-selector//7490:nnn -o -F1   '/Users/goose/.config/nvim/lua/window-selector/app'",
+    window_number = 1002
+  }, {
+    buffer_number = 1,
+    file_in_buffer = "/Users/goose/.config/nvim/lua/window-selector/app/window-utils.lua",
+    window_number = 1000
+  } }
