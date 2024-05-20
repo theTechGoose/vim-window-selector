@@ -1,6 +1,12 @@
 # Nnn Window Selector
 this fragment of code allows you to set up a mapping in your nnn.nvim config, so that you can pick which window to open the file in.
 
+# Screenshot
+
+<img width="1520" alt="image" src="https://github.com/theTechGoose/vim-window-selector/assets/55964540/7316651c-861a-477d-aca5-67a576eb506c">
+
+
+
 init.lua exports a closure. Just use the closure to map CR in you Nnn.nvim config.
 
 like this:
